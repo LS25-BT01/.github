@@ -8,8 +8,8 @@
 
 **OS (LINUX):** [OPEN TICKET](https://github.com/LS25-BT01/linux-common/issues/new)
 
-**WEB:** [OPEN TICKET](https://github.com/LS25-BT01/linux-common/issues/new)
+**WEB:** [OPEN TICKET](https://github.com/LS25-BT01/web-common/issues/new)
 
-**NETWORK:** [OPEN TICKET](https://github.com/LS25-BT01/linux-common/issues/new)
+**NETWORK:** [OPEN TICKET](https://github.com/LS25-BT01/network-common/issues/new)
 
-**SPECIAL SYSTEMS:** [OPEN TICKET](https://github.com/LS25-BT01/linux-common/issues/new)
+**SPECIAL SYSTEMS:** [OPEN TICKET](https://github.com/LS25-BT01/special-systems/issues/new)
