@@ -1,4 +1,15 @@
 # Blue Team 01
 
-## Threat Hunting
-[REPORT ANOMALY](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-findings.yml)
+## CONTACT LINKS (CREATE A NEW ISSUE)
+---
+**THREAT HUNTING:** [REPORT ANOMALY](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-findings.yml)
+
+**OS (WINDOWS):** [OPEN TICKET](https://github.com/LS25-BT01/windows-common/issues/new)
+
+**OS (LINUX):** [OPEN TICKET](https://github.com/LS25-BT01/linux-common/issues/new)
+
+**WEB:** [OPEN TICKET](https://github.com/LS25-BT01/linux-common/issues/new)
+
+**NETWORK:** [OPEN TICKET](https://github.com/LS25-BT01/linux-common/issues/new)
+
+**SPECIAL SYSTEMS:** [OPEN TICKET](https://github.com/LS25-BT01/linux-common/issues/new)
