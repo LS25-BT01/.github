@@ -1,5 +1,7 @@
 # Blue Team 01
 
+HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
+
 ## CONTACT LINKS (CREATE A NEW ISSUE)
 ---
 **THREAT HUNTING:** [REPORT ANOMALY](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-findings.yml)
