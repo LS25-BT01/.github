@@ -4,7 +4,7 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 ## CONTACT LINKS (CREATE A NEW ISSUE)
 ---
-**THREAT HUNTING:** [REPORT A FINDING/ISSUE](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-findings.yml)
+**THREAT HUNTING:** [REPORT A FINDING](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-findings.yml)
 
 **OS (WINDOWS):** [OPEN TICKET](https://github.com/LS25-BT01/windows-common/issues/new)
 
