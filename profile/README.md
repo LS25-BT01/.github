@@ -8,7 +8,7 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 **OS:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=os-ticket.yml)
 
-**WEB:** [OPEN TICKET](https://github.com/LS25-BT01/web-common/issues/new)
+**WEB:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=web-ticket.yaml)
 
 **NETWORK:** [OPEN TICKET](https://github.com/LS25-BT01/network-common/issues/new)
 
