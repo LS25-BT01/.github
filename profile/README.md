@@ -6,7 +6,7 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 ---
 **THREAT HUNTING:** [REPORT A FINDING](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-findings.yml)
 
-**OS:** [OPEN TICKET]([https://github.com/LS25-BT01/windows-common/issues/new](https://github.com/LS25-BT01/common/issues/new?template=os-ticket.yml))
+**OS:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=os-ticket.yml)
 
 **WEB:** [OPEN TICKET](https://github.com/LS25-BT01/web-common/issues/new)
 
