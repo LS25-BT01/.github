@@ -13,6 +13,6 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 **SPECIAL SYSTEMS:** [OPEN TICKET](https://github.com/LS25-BT01/special-systems/issues/new)
 
-**THREAT HUNTING:** [OPEN TICKET](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-findings.yml)
+**THREAT HUNTING:** [OPEN TICKET](https://github.com/LS25-BT01/threat-hunting/blob/main/.github/ISSUE_TEMPLATE/th-ticket.yml) 
 
 **DETECTED Malware** [OPEN TICKET](https://github.com/LS25-BT01/DETECTED-MALWARE/tree/TEHD%C4%B0T-AVCILI%C4%9EI)
