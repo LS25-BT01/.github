@@ -11,7 +11,7 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 **NETWORK:** [OPEN TICKET](https://github.com/LS25-BT01/network-common/issues/new)
 
-**SPECIAL SYSTEMS:** [OPEN TICKET](https://github.com/LS25-BT01/special-systems/issues/new)
+**SPECIAL SYSTEMS:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=special-systems-ticket.yaml)
 
 **THREAT HUNTING:** [OPEN TICKET](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-ticket.yml) 
 
