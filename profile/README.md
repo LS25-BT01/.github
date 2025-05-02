@@ -9,7 +9,9 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 **WEB:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=web-ticket.yaml)
 
-**NETWORK:** [OPEN TICKET](https://github.com/LS25-BT01/network-common/issues/new)
+**NETWORK:** 
+- [OPEN TICKET](https://github.com/LS25-BT01/network-common/issues/new?template=02-network-ticket.yml) 
+- [BLACKLIST AN IP](https://bl.ls25.net.tr) 
 
 **SPECIAL SYSTEMS:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=special-systems-ticket.yaml)
 
