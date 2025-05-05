@@ -4,19 +4,10 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 ## CONTACT LINKS (CREATE A NEW ISSUE)
 ---
+**THREAT DETECTION:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=03-detected-malware-vulnerability.yml)
 
-**OS:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=os-ticket.yml)
+**OS TICKET:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=02-os-ticket.yml)
 
-**WEB:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=web-ticket.yaml)
+**NETWORK TICKET:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=01-network-template.yml)
 
-**NETWORK:** 
-- [OPEN TICKET](https://github.com/LS25-BT01/network-common/issues/new?template=02-network-ticket.yml) 
-- [BLACKLIST AN IP](https://bl.ls25.net.tr) 
-
-**SPECIAL SYSTEMS:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=special-systems-ticket.yaml)
-
-**THREAT HUNTING:** [OPEN TICKET](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-ticket.yml) 
-
-**DETECTED Malware** [OPEN TICKET](https://github.com/LS25-BT01/DETECTED-MALWARE/issues/new)
-
-**UST Ticket:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=ust-ticket.yml)
+**UST Ticket:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=00-ust-ticket.yml)
