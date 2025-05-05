@@ -18,4 +18,5 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 **THREAT HUNTING:** [OPEN TICKET](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-ticket.yml) 
 
 **DETECTED Malware** [OPEN TICKET](https://github.com/LS25-BT01/DETECTED-MALWARE/issues/new)
+
 **UST Ticket:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=ust-ticket.yml)
