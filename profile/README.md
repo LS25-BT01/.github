@@ -4,7 +4,7 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 ## CONTACT LINKS (CREATE A NEW ISSUE)
 ---
-**THREAT DETECTION:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=03-detected-malware-vulnerability.yml)
+**THREAT HUNTING:** [OPEN TICKET](https://github.com/LS25-BT01/threat-hunting/issues/new?template=th-ticket.yml)
 
 **OS TICKET:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=02-os-ticket.yml)
 
