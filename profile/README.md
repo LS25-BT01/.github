@@ -10,7 +10,7 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 |**NETWORK TICKET:** | [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=01-network-template.yml) |
 |**UST TICKET:** | [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=00-ust-ticket.yml) |
 |**WEB TICKET:** | [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=04-web-ticket.yml) |
-|**DETECTED Malware** | [OPEN TICKET](https://github.com/LS25-BT01/DETECTED-MALWARE/issues/new) |
+|**MALWARE DETECTION** | [OPEN TICKET](https://github.com/LS25-BT01/detected-malware/issues/new?template=00-malware-detection.yml) |
 
 ### SPECIAL SYSTEMS:
 |TEAM|ACTION|
