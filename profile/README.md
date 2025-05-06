@@ -1,4 +1,4 @@
-# Blue Team 01
+# 🔵 Blue Team 01
 
 HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
