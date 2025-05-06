@@ -14,6 +14,8 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 **WEB TICKET:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=04-web-ticket.yml)
 
+**DETECTED Malware** [OPEN TICKET](https://github.com/LS25-BT01/DETECTED-MALWARE/issues/new)
+
 ### SPECIAL SYSTEMS:
 
 - **5G:** [OPEN TICKET](https://github.com/LS25-BT01/special-systems/issues/new?template=01-5g-ticket.yml)
