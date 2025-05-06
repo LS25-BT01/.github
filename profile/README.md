@@ -16,5 +16,5 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 ### SPECIAL SYSTEMS:
 
-**5G:** [OPEN TICKET](https://github.com/LS25-BT01/special-systems/issues/new?template=01-5g-ticket.yml)
-**SATELLITE:** [OPEN TICKET](🛰)
+- **5G:** [OPEN TICKET](https://github.com/LS25-BT01/special-systems/issues/new?template=01-5g-ticket.yml)
+- **SATELLITE:** [OPEN TICKET](https://github.com/LS25-BT01/special-systems/issues/new?template=02-satellite-ticket.yml)
