@@ -12,4 +12,4 @@ HANDBOOKS: https://github.com/LS25-BT01/common/tree/main/HANDBOOKS
 
 **UST TICKET:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=00-ust-ticket.yml)
 
-**WEB TICKET:** [OPEN TICKET]()
+**WEB TICKET:** [OPEN TICKET](https://github.com/LS25-BT01/common/issues/new?template=04-web-ticket.yml)
